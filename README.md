@@ -12,33 +12,49 @@ The application provides the following main features:
   - Suspend ONE Card
   - Recieve notification about events, promotions from ONE Card department
 
+
+
 Signin screen
 
 ![Signin](2_Signin.PNG)
+
+
 
 Home screen
 
 ![HomeScreen](4_Home.PNG)
 
+
+
 Transaction history screen
 
 ![Transaction](5_1_Transaction.PNG)
+
+
 
 Add money screen
 
 ![Addmoney](6_1_AddMoney.jpeg)
 
+
+
 More screen
 
 ![More](7_More.PNG)
+
+
 
 Notification screen
 
 ![Notification](10_1_Notification.PNG)
 
+
+
 Contact screen
 
 ![Contact](13_Contact.PNG)
+
+
 
 This application was written in Swift 4.2 using xCode 10.
 Version: 2.1.0

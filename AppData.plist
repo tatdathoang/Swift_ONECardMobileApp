@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	
+	<key>Version</key>
+	<string>2.1.0</string>
+	<key>ReleaseDate</key>
+	<string>August 4, 2018</string>
+    <key>ContactLongitude</key>
+    <string>43.390282</string>
+    <key>ContactLatitude</key>
+    <string>-80.403231</string>
+    <key>ContactEmail</key>
+    <string>onecard@conestogac.on.ca</string>
+    <key>ContactPhone</key>
+    <string>5197485220,3530</string>
+    <key>ContactFacebook</key>
+    <string>https://www.facebook.com/ConestogaOneCard</string>
+    <key>ContactTwitter</key>
+    <string>https://twitter.com/CC_ONECard</string>
+    <key>ContactInstagram</key>
+    <string>https://www.instagram.com/conestogaonecard</string>
+	<key>UseBiometric</key>
+	<true/>
+	<key>Scheme</key>
+	<string>https://</string>
+	<key>Host</key>
+	<string>onecardmobile.com/</string>
+	<key>TestConnection</key>
+	<string>test_connection.php</string>
+	<key>GetFirstLastName</key>
+	<string>get_first_last_name.php</string>
+	<key>GetBalance</key>
+	<string>get_balance.php</string>
+	<key>GetLatestTransaction</key>
+	<string>get_latest_transaction.php</string>
+	<key>GetTransactionWithFilter</key>
+	<string>get_transaction_with_filter.php</string>
+	<key>AddMoney</key>
+	<string>add_money.php</string>
+	<key>SuspendCard</key>
+	<string>suspend_card.php</string>
+	<key>GetCardStatus</key>
+	<string>get_card_status.php</string>
+	<key>GetSubscription</key>
+	<string>get_subscription.php</string>
+	<key>GetNotification</key>
+	<string>get_notification.php</string>
+	<key>UpdateSubscription</key>
+	<string>update_subscription.php</string>
+	<key>UserType</key>
+	<string>1</string>
+	<key>UserId</key>
+	<string>1</string>
+</dict>
+</plist>

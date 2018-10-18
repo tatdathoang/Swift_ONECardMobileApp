@@ -1,5 +1,7 @@
 # Swift_ONECardMobileApp
 
+![Intro](Intro.png)
+
 A portal allows students and staff of Conestoga College access their identity card and manage their account.
 
 The application provides the following features:

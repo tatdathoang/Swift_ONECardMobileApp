@@ -57,6 +57,6 @@ Contact screen
 
 
 
-This application was written in Swift 4.2 using xCode 10.
+This application was written in Swift 4.2 using XCode 10.
 Version: 2.1.0
 Release date: August 4, 2018

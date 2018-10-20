@@ -12,6 +12,7 @@ The application provides the following main features:
   - Suspend ONE Card
   - Recieve notification about events, promotions from ONE Card department
 
+Demo video: https://www.youtube.com/watch?v=6Oxgw6R5UNA
 
 
 Signin screen
